@@ -1,4 +1,4 @@
-# Cookie Cutter Project Script 
+# Cookie Cutter Project Script version 2 
 Miriam Baumann, October 27, 2015
 Miles Ingram, Oct 27, 2015
 
