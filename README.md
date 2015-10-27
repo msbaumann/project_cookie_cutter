@@ -6,3 +6,9 @@ for computational projects.
 
 The script will male the following subdirectories: data, results, bin 
 and manuscript
+
+Dependencies: 
+1. Access to Bash and knowledge of the program
+2. Instructions of the Assignment 
+3. A Computer 
+4. A lot of time!
