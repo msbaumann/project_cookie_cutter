@@ -13,3 +13,4 @@ Dependencies:
 2. Instructions of the Assignment 
 3. A Computer 
 4. A lot of time!
+5. SLEEP WHEN YOUR DONE. 
